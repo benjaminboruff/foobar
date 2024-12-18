@@ -37,7 +37,7 @@
             <h1
                 class="text-5xl font-extrabold leading-10 tracking-tight text-left text-gray-100 md:text-center sm:leading-none md:text-6xl lg:text-7xl">
                 <span class="block text-4xl md:text-5xl mb-4 sm:mb-0">You're running on </span><span
-                    class="relative mt-2 text-transparent bg-clip-text bg-gradient-to-br logo-gradient md:inline-block drop-shadow-2xl tracking-normal">HydePHP</span>
+                    class="relative mt-2 text-transparent bg-clip-text bg-gradient-to-br logo-gradient md:inline-block drop-shadow-2xl tracking-normal">HydePHP, baby!!!</span>
             </h1>
             <div class="mx-auto mt-8 sm:mt-4 text-gray-200 md:mt-8 md:max-w-2xl md:text-center">
                 <section aria-label="About Hyde">
